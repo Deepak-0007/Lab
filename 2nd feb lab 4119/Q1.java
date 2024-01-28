@@ -15,7 +15,7 @@ int input1,input2,input3,input4,input5,output;
  System.out.println("Enter the fifth no");   //input of fifth no
  input5=sc.nextInt();
  output= (input1+input2+input3+input4+input5)/5;
- System.out.println("Average of five number"+output);
+ System.out.println("Average of five number"+output);// output
    
 
 	}
